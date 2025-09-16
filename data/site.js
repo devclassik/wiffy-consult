@@ -166,8 +166,19 @@ export const service = [
 export const education = [
     {
         icon: "flaticon-graduation-cap",
-        title: "Masters in Computer Science",
-        location: "New York University",
+        title: "Masters in Public Admin",
+        location: "Nasarawa State University",
+        date: {
+            start: 2025,
+            end: 2026,
+        },
+        description:
+            "Ludantium totam rem aperia meaque ipsa quae ab illo inven tore veritatis et quasi architecto beatae vitae.",
+    },
+    {
+        icon: "flaticon-graduation-cap",
+        title: "Bachelor in French",
+        location: "University of Ilorin",
         date: {
             start: 2012,
             end: 2016,
@@ -175,28 +186,17 @@ export const education = [
         description:
             "Ludantium totam rem aperia meaque ipsa quae ab illo inven tore veritatis et quasi architecto beatae vitae.",
     },
-    {
-        icon: "flaticon-graduation-cap",
-        title: "Bachelor in Computer Engineering",
-        location: "Dhaka University",
-        date: {
-            start: 2008,
-            end: 2011,
-        },
-        description:
-            "Ludantium totam rem aperia meaque ipsa quae ab illo inven tore veritatis et quasi architecto beatae vitae.",
-    },
-    {
-        icon: "flaticon-graduation-cap",
-        title: "Diploma in Graphic Design",
-        location: "ChattoGram College",
-        date: {
-            start: 2006,
-            end: 2008,
-        },
-        description:
-            "Ludantium totam rem aperia meaque ipsa quae ab illo inven tore veritatis et quasi architecto beatae vitae.",
-    },
+    // {
+    //     icon: "flaticon-graduation-cap",
+    //     title: "Diploma in Graphic Design",
+    //     location: "ChattoGram College",
+    //     date: {
+    //         start: 2006,
+    //         end: 2008,
+    //     },
+    //     description:
+    //         "Ludantium totam rem aperia meaque ipsa quae ab illo inven tore veritatis et quasi architecto beatae vitae.",
+    // },
 ];
 
 export const experience2 = [

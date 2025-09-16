@@ -40,7 +40,7 @@ export default function Hero() {
                                         <span className="sub-heading d-block theme-color mb-10">
                                             Hello I’m
                                         </span>
-                                        <span className="text-red-500">
+                                        <span className="!text-red-500">
                                             Deborah Toluwase
                                         </span>
                                         {/* Deborah-Toluwase kolawole */}

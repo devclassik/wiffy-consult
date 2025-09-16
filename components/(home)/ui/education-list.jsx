@@ -11,9 +11,9 @@ export default function EducationList({ data }) {
                 </span>
             </div>
             <div className="experience-service-text d-inline-block">
-                <h3 className="mb-2">{data.title}</h3>
+                <h3 className="mb-2">{data.title} </h3>
                 <h4>
-                    New York University{" "}
+                    {data.location}
                     <span className="meta-text-color openS-font-family">
                         ( {start} - {end} )
                     </span>
