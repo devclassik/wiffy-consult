@@ -58,9 +58,9 @@ export default function Hero() {
                                                 sequence={[
                                                     "Journalist",
                                                     1000,
-                                                    "Education Anaylist",
+                                                    "Education Analyst",
                                                     1000,
-                                                    "Consultant",
+                                                    "Education Consultant",
                                                     1000,
                                                 ]}
                                                 wrapper="span"
